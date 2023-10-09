@@ -1,6 +1,6 @@
 # Tangled Nature Model in Rust
 
-The Tangled Nature model is a theoretical framework used to understand the evolution and dynamics of species in complex ecosystems. This Rust implementation offers a fast and efficient simulation of the model, capturing the intricate relationships between individuals and species.
+The Tangled Nature model is a theoretical framework used to understand the evolution and dynamics of species in complex ecosystems [Jensen 2018](https://iopscience.iop.org/article/10.1088/1361-6404/aaee8f/meta). This Rust implementation offers a fast and efficient simulation of the model, capturing the intricate relationships between individuals and species.
 
 ## Table of Contents
 
